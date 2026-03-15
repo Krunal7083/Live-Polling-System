@@ -364,5 +364,5 @@ const PORT = process.env.PORT || 5000;
 server.listen(PORT, () => {
   console.log(`�� Live Polling Server running on port ${PORT}`);
   console.log(`📊 Health check: http://localhost:${PORT}/health`);
-  console.log(`��‍💻 Deployed by: prabhatzz`);
+  console.log(`��‍💻 Deployed by: Krunal`);
 });
